@@ -1,5 +1,5 @@
 .header {
-  position: fixed;
+    position: fixed;
     left: 0;
     top: 0;
     width: 100%;
@@ -20,7 +20,7 @@
     margin-right: 40px;
 }
 .social-link {
-   display: block;
+    display: block;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
